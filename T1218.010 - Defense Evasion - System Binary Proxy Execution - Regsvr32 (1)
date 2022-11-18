@@ -1,1 +1,18 @@
- regsvr32.exe /s /u /i:payload.sct scrobj.dll
+id: b3eda0e2-105d-4f59-af52-bddd52f75862
+name: Defense Evasion - System Binary Proxy Execution - Regsvr32 (1)
+description: Regsvr32 scriplet execution.
+tactic: Auto-Generated
+technique: T1218.010
+  id: T1218.010
+  name: System Binary Proxy Execution: Regsvr32
+metadata:
+  authors: 'https://github.com/Fa1c0'
+  tags: Adversary Emulation
+  payloads: {}
+platforms:
+  windows:
+    psh:
+      command:  regsvr32.exe /s /u /i:payload.sct scrobj.dll
+
+ 
+
