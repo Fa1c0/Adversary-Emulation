@@ -1,7 +1,7 @@
-id: b3eda0e2-105d-4f59-af52-bddd52f75862
+sid: b3eda0e2-105d-4f59-af52-bddd52f75862
 name: Defense Evasion - System Binary Proxy Execution - Regsvr32 (1)
 description: Regsvr32 scriplet execution.
-tactic: Auto-Generated
+tactic: Defense Evasion
 technique: T1218.010
   id: T1218.010
   name: System Binary Proxy Execution: Regsvr32
