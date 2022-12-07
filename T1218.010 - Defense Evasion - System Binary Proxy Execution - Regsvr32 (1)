@@ -1,4 +1,4 @@
-sid: b3eda0e2-105d-4f59-af52-bddd52f75862
+id: b3eda0e2-105d-4f59-af52-bddd52f75862
 name: Defense Evasion - System Binary Proxy Execution - Regsvr32 (1)
 description: Regsvr32 scriplet execution.
 tactic: Defense Evasion
